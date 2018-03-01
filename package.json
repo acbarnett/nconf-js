@@ -30,19 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoneal/nconf-js.git"
+    "url": "git+https://github.com/acbarnett/nconf-js.git"
   },
   "bugs": {
-    "url": "https://github.com/yoneal/nconf-js/issues"
+    "url": "https://github.com/acbarnett/nconf-js/issues"
   },
-  "homepage": "https://github.com/yoneal/nconf-js",
+  "homepage": "https://github.com/acbarnett/nconf-js",
   "author": "neal <yoneal@gmail.com>",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
-  "keywords": [
-    "nconf",
-    "js"
-  ]
 }
